@@ -1,1 +1,3 @@
-mtlogs.log
+/mtlogs.log
+*.log
+ignore/
